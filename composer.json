@@ -1,0 +1,13 @@
+{
+    "name": "allen.lu/unit-test_test",
+    "authors": [
+        {
+            "name": "Allen Lu",
+            "email": "iniquity.spirit@gmail.com"
+        }
+    ],
+    "require": {},
+    "require-dev": {
+        "phpunit/phpunit": "^7"
+    }
+}
